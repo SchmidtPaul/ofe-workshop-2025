@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!claude.md"
+
+website:
+  title: "OFE Workshop 2025"
+  navbar: false
+  sidebar: false
+
+format:
+  html:
+    theme: cosmo
+    toc: false

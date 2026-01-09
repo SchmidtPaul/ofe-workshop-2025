@@ -1,0 +1,29 @@
+---
+title: "On-Farm-Experimente Workshop 2025"
+subtitle: "Nachbereitung und Materialien"
+---
+
+## Rückblick
+
+Der Workshop fand am **28. November 2025** bei der Landwirtschaftskammer Niedersachsen in Hannover statt
+
+Veranstalter: LWK Niedersachsen gemeinsam mit der Arbeitsgruppe „Landwirtschaftliches Versuchswesen" der Internationalen Biometrischen Gesellschaft.
+
+[Zur ursprünglichen Veranstaltungsseite](https://www.lwk-niedersachsen.de/lwk/vera/11754_On-farm-Experimente-Workshop)
+
+## Vorträge
+
+*Hier werden die Vortragsfolien zum Download bereitgestellt.*
+
+<!-- Beispiel für Download-Links (später befüllen):
+- [Vortrag 1: Titel](vortraege/vortrag1.pdf)
+- [Vortrag 2: Titel](vortraege/vortrag2.pdf)
+-->
+
+## Weiterführende Informationen
+
+- [OFE-Leitfaden (PDF, 2012)](https://example.com/leitfaden.pdf)
+
+## Kontakt
+
+Bei Fragen wenden Sie sich an: [Kontaktperson einfügen]
